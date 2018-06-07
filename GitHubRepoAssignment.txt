@@ -1,0 +1,12 @@
+Went to GitHub and created a repo called GitHubRepoAssignment
+CRTL ALT T and change directory to gittest 
+Created a folder called "GitHubRepoAssignment"
+cd GitHubRepoAssignment
+git init
+touch readme.md
+touch GitHubRepoAssignment
+git status
+git add .
+git commit -m " First Commit added readme and GitHubRepoAssignment files"
+git remote add origin https://github.com/Socrateste/GitHubRepoAssignment.git
+git push origin master
